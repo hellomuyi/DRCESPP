@@ -1,0 +1,76 @@
+****************************************************************************************************
+****************************************************************************************************
+init seed:  90001
+pid:  18188
+K_batch: [2, 5]
+num_nodes_batch: [100, 500]
+ratio_edges_batch: [0.6, 0.7, 0.8]
+q_hat_batch: [-0.2, -0.1, 0.0, 0.1]
+num_instances:  1000
+num_processes:  1
+****************************************************************************************************
+****************************************************************************************************
+init seed:  90001
+pid:  12752
+K_batch: [2, 5]
+num_nodes_batch: [100, 500]
+ratio_edges_batch: [0.6, 0.7, 0.8]
+q_hat_batch: [-0.2, -0.1, 0.0, 0.1]
+num_instances:  100
+num_processes:  18
+Backend TkAgg is interactive backend. Turning interactive mode on.
+Traceback (most recent call last):
+  File "E:/RL/network_optimization_ESPPRC/experiments_v1/exp_preprocessing.py", line 260, in <module>
+    test_reduction_mp(arglist)
+  File "E:/RL/network_optimization_ESPPRC/experiments_v1/exp_preprocessing.py", line 183, in test_reduction_mp
+    speedup = (t_pulse_c_batch / (t_preprocessing_batch + t_pulse_l_batch)) ** (1/num_instances)
+KeyboardInterrupt
+****************************************************************************************************
+****************************************************************************************************
+init seed:  90001
+pid:  19840
+K_batch: [2, 5]
+num_nodes_batch: [100, 500]
+ratio_edges_batch: [0.6, 0.7, 0.8]
+q_hat_batch: [-0.2, -0.1, 0.0, 0.1]
+num_instances:  100
+num_processes:  18
+Backend TkAgg is interactive backend. Turning interactive mode on.
+****************************************************************************************************
+num_instances:100  K:2  num_nodes:100  num_edges:15(0.60)  q_hat:-0.20  seed:90001-90100
+预处理提前终止算法的实例数: 3(inf) + 60(not inf) = 63/100 = 0.6300
+节点数: 100 -> 18.41  0.8326
+边数: 2550 -> 104.19  0.9591
+第一阶段未结束的拓扑，精确算法比cost_min更优：6/37
+剩余拓扑存在可行解的比例: 36/37=0.9730
+预处理为剩余拓扑提供了初始解: 36/37
+generate data: 0.15m  pulse_c: 0.68m  preprocessing: 0.27m  pulse_l: 0.01m
+                 avg  pulse_c: 0.4090s  preprocessing: 0.1619s  pulse_l: 0.0114s  total: 0.1661s
+speed up: 2.4620
+actual time: 8.15m
+****************************************************************************************************
+****************************************************************************************************
+init seed:  90001
+pid:  11220
+K_batch: [2, 5]
+num_nodes_batch: [100, 500]
+ratio_edges_batch: [0.6, 0.7, 0.8]
+q_hat_batch: [-0.2, -0.1, 0.0, 0.1]
+num_instances:  100
+num_processes:  18
+****************************************************************************************************
+****************************************************************************************************
+init seed:  90001
+pid:  19536
+K_batch: [2, 5]
+num_nodes_batch: [100, 500]
+ratio_edges_batch: [0.6, 0.7, 0.8]
+q_hat_batch: [-0.2, -0.1, 0.0, 0.1]
+num_instances:  1000
+num_processes:  18
+Backend TkAgg is interactive backend. Turning interactive mode on.
+Traceback (most recent call last):
+  File "E:/RL/network_optimization_ESPPRC/experiments_v1/exp_preprocessing.py", line 259, in <module>
+  File "E:/RL/network_optimization_ESPPRC/experiments_v1/exp_preprocessing.py", line 187, in test_reduction_mp
+    ratio_nodes_removed_avg = (num_nodes - np.mean(n_nodes_batch[idx_undone])) / (num_nodes-2)
+KeyboardInterrupt

@@ -1,0 +1,587 @@
+****************************************************************************************************
+****************************************************************************************************
+init seed:  90001
+pid:  23229
+K_batch: [2, 5]
+num_nodes_batch: [100, 500]
+ratio_edges_batch: [0.6, 0.7, 0.8]
+q_hat_batch: [-0.2, -0.1, 0.0, 0.1]
+num_instances:  1000
+num_processes:  18
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:100  num_edges:15(0.60)  q_hat:-0.20  seed:90001-91000
+预处理提前终止算法的实例数: 13(inf) + 263(not inf) = 276/1000 = 0.2760
+节点数: 100 -> 13.25  0.8852
+边数: 2550 -> 66.96  0.9737
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/724
+剩余拓扑存在可行解的比例: 0/724=0.0000
+预处理为剩余拓扑提供了初始解: 716/724
+generate data: 0.14m  pulse_c: 0.00m  preprocessing: 0.35m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.0211s  pulse_l: 0.0000s  total: 0.0211s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.03m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:100  num_edges:15(0.60)  q_hat:-0.10  seed:91001-92000
+预处理提前终止算法的实例数: 8(inf) + 225(not inf) = 233/1000 = 0.2330
+节点数: 100 -> 14.10  0.8766
+边数: 2550 -> 61.20  0.9760
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/767
+剩余拓扑存在可行解的比例: 0/767=0.0000
+预处理为剩余拓扑提供了初始解: 763/767
+generate data: 0.14m  pulse_c: 0.00m  preprocessing: 0.33m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.0201s  pulse_l: 0.0000s  total: 0.0201s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.03m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:100  num_edges:15(0.60)  q_hat:0.00  seed:92001-93000
+预处理提前终止算法的实例数: 15(inf) + 3(not inf) = 18/1000 = 0.0180
+节点数: 100 -> 14.60  0.8714
+边数: 2550 -> 53.94  0.9788
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/982
+剩余拓扑存在可行解的比例: 0/982=0.0000
+预处理为剩余拓扑提供了初始解: 980/982
+generate data: 0.14m  pulse_c: 0.00m  preprocessing: 0.35m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.0208s  pulse_l: 0.0000s  total: 0.0208s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.03m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:100  num_edges:15(0.60)  q_hat:0.10  seed:93001-94000
+预处理提前终止算法的实例数: 14(inf) + 5(not inf) = 19/1000 = 0.0190
+节点数: 100 -> 16.54  0.8516
+边数: 2550 -> 73.06  0.9713
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/981
+剩余拓扑存在可行解的比例: 0/981=0.0000
+预处理为剩余拓扑提供了初始解: 972/981
+generate data: 0.14m  pulse_c: 0.00m  preprocessing: 0.36m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.0215s  pulse_l: 0.0000s  total: 0.0215s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.03m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:100  num_edges:25(0.70)  q_hat:-0.20  seed:94001-95000
+预处理提前终止算法的实例数: 8(inf) + 250(not inf) = 258/1000 = 0.2580
+节点数: 100 -> 12.51  0.8928
+边数: 3750 -> 71.76  0.9809
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/742
+剩余拓扑存在可行解的比例: 0/742=0.0000
+预处理为剩余拓扑提供了初始解: 738/742
+generate data: 0.23m  pulse_c: 0.00m  preprocessing: 0.43m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.0261s  pulse_l: 0.0000s  total: 0.0261s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.04m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:100  num_edges:25(0.70)  q_hat:-0.10  seed:95001-96000
+预处理提前终止算法的实例数: 4(inf) + 235(not inf) = 239/1000 = 0.2390
+节点数: 100 -> 14.84  0.8690
+边数: 3750 -> 90.12  0.9760
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/761
+剩余拓扑存在可行解的比例: 0/761=0.0000
+预处理为剩余拓扑提供了初始解: 755/761
+generate data: 0.23m  pulse_c: 0.00m  preprocessing: 0.44m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.0266s  pulse_l: 0.0000s  total: 0.0266s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.04m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:100  num_edges:25(0.70)  q_hat:0.00  seed:96001-97000
+预处理提前终止算法的实例数: 6(inf) + 8(not inf) = 14/1000 = 0.0140
+节点数: 100 -> 15.01  0.8673
+边数: 3750 -> 81.88  0.9782
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/986
+剩余拓扑存在可行解的比例: 0/986=0.0000
+预处理为剩余拓扑提供了初始解: 983/986
+generate data: 0.23m  pulse_c: 0.00m  preprocessing: 0.43m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.0261s  pulse_l: 0.0000s  total: 0.0261s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.04m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:100  num_edges:25(0.70)  q_hat:0.10  seed:97001-98000
+预处理提前终止算法的实例数: 9(inf) + 2(not inf) = 11/1000 = 0.0110
+节点数: 100 -> 16.00  0.8572
+边数: 3750 -> 79.22  0.9789
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/989
+剩余拓扑存在可行解的比例: 0/989=0.0000
+预处理为剩余拓扑提供了初始解: 986/989
+generate data: 0.20m  pulse_c: 0.00m  preprocessing: 0.40m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.0238s  pulse_l: 0.0000s  total: 0.0238s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.04m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:100  num_edges:39(0.80)  q_hat:-0.20  seed:98001-99000
+预处理提前终止算法的实例数: 4(inf) + 258(not inf) = 262/1000 = 0.2620
+节点数: 100 -> 14.24  0.8751
+边数: 4758 -> 136.99  0.9712
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/738
+剩余拓扑存在可行解的比例: 0/738=0.0000
+预处理为剩余拓扑提供了初始解: 738/738
+generate data: 0.26m  pulse_c: 0.00m  preprocessing: 0.55m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.0327s  pulse_l: 0.0000s  total: 0.0327s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.05m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:100  num_edges:39(0.80)  q_hat:-0.10  seed:99001-100000
+预处理提前终止算法的实例数: 5(inf) + 238(not inf) = 243/1000 = 0.2430
+节点数: 100 -> 14.98  0.8676
+边数: 4758 -> 114.12  0.9760
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/757
+剩余拓扑存在可行解的比例: 0/757=0.0000
+预处理为剩余拓扑提供了初始解: 755/757
+generate data: 0.26m  pulse_c: 0.00m  preprocessing: 0.50m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.0301s  pulse_l: 0.0000s  total: 0.0301s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.05m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:100  num_edges:39(0.80)  q_hat:0.00  seed:100001-101000
+预处理提前终止算法的实例数: 4(inf) + 16(not inf) = 20/1000 = 0.0200
+节点数: 100 -> 14.33  0.8742
+边数: 4758 -> 89.42  0.9812
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/980
+剩余拓扑存在可行解的比例: 0/980=0.0000
+预处理为剩余拓扑提供了初始解: 974/980
+generate data: 0.26m  pulse_c: 0.00m  preprocessing: 0.50m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.0300s  pulse_l: 0.0000s  total: 0.0300s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.05m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:100  num_edges:39(0.80)  q_hat:0.10  seed:101001-102000
+预处理提前终止算法的实例数: 4(inf) + 5(not inf) = 9/1000 = 0.0090
+节点数: 100 -> 15.74  0.8597
+边数: 4758 -> 80.81  0.9830
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/991
+剩余拓扑存在可行解的比例: 0/991=0.0000
+预处理为剩余拓扑提供了初始解: 991/991
+generate data: 0.26m  pulse_c: 0.00m  preprocessing: 0.46m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.0274s  pulse_l: 0.0000s  total: 0.0274s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.05m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:500  num_edges:41(0.60)  q_hat:-0.20  seed:102001-103000
+预处理提前终止算法的实例数: 0(inf) + 314(not inf) = 314/1000 = 0.3140
+节点数: 500 -> 29.13  0.9455
+边数: 37638 -> 587.42  0.9844
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/686
+剩余拓扑存在可行解的比例: 0/686=0.0000
+预处理为剩余拓扑提供了初始解: 686/686
+generate data: 1.96m  pulse_c: 0.00m  preprocessing: 2.92m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.1755s  pulse_l: 0.0000s  total: 0.1755s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.31m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:500  num_edges:41(0.60)  q_hat:-0.10  seed:103001-104000
+预处理提前终止算法的实例数: 3(inf) + 264(not inf) = 267/1000 = 0.2670
+节点数: 500 -> 25.21  0.9534
+边数: 37638 -> 443.21  0.9882
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/733
+剩余拓扑存在可行解的比例: 0/733=0.0000
+预处理为剩余拓扑提供了初始解: 733/733
+generate data: 1.96m  pulse_c: 0.00m  preprocessing: 2.60m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.1558s  pulse_l: 0.0000s  total: 0.1558s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.26m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:500  num_edges:41(0.60)  q_hat:0.00  seed:104001-105000
+预处理提前终止算法的实例数: 1(inf) + 2(not inf) = 3/1000 = 0.0030
+节点数: 500 -> 27.24  0.9493
+边数: 37638 -> 444.98  0.9882
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/997
+剩余拓扑存在可行解的比例: 0/997=0.0000
+预处理为剩余拓扑提供了初始解: 996/997
+generate data: 1.97m  pulse_c: 0.00m  preprocessing: 2.59m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.1554s  pulse_l: 0.0000s  total: 0.1554s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.28m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:500  num_edges:41(0.60)  q_hat:0.10  seed:105001-106000
+预处理提前终止算法的实例数: 3(inf) + 1(not inf) = 4/1000 = 0.0040
+节点数: 500 -> 24.63  0.9546
+边数: 37638 -> 268.02  0.9929
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/996
+剩余拓扑存在可行解的比例: 0/996=0.0000
+预处理为剩余拓扑提供了初始解: 996/996
+generate data: 1.97m  pulse_c: 0.00m  preprocessing: 2.37m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.1420s  pulse_l: 0.0000s  total: 0.1420s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.27m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:500  num_edges:77(0.70)  q_hat:-0.20  seed:106001-107000
+预处理提前终止算法的实例数: 1(inf) + 282(not inf) = 283/1000 = 0.2830
+节点数: 500 -> 27.18  0.9494
+边数: 65142 -> 730.31  0.9888
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/717
+剩余拓扑存在可行解的比例: 0/717=0.0000
+预处理为剩余拓扑提供了初始解: 717/717
+generate data: 3.20m  pulse_c: 0.00m  preprocessing: 3.85m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.2312s  pulse_l: 0.0000s  total: 0.2312s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.42m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:500  num_edges:77(0.70)  q_hat:-0.10  seed:107001-108000
+预处理提前终止算法的实例数: 0(inf) + 258(not inf) = 258/1000 = 0.2580
+节点数: 500 -> 27.68  0.9484
+边数: 65142 -> 647.58  0.9901
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/742
+剩余拓扑存在可行解的比例: 0/742=0.0000
+预处理为剩余拓扑提供了初始解: 741/742
+generate data: 3.21m  pulse_c: 0.00m  preprocessing: 3.61m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.2167s  pulse_l: 0.0000s  total: 0.2167s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.40m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:500  num_edges:77(0.70)  q_hat:0.00  seed:108001-109000
+预处理提前终止算法的实例数: 0(inf) + 1(not inf) = 1/1000 = 0.0010
+节点数: 500 -> 21.30  0.9612
+边数: 65142 -> 328.42  0.9950
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/999
+剩余拓扑存在可行解的比例: 0/999=0.0000
+预处理为剩余拓扑提供了初始解: 998/999
+generate data: 3.22m  pulse_c: 0.00m  preprocessing: 3.05m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.1827s  pulse_l: 0.0000s  total: 0.1827s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.39m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:500  num_edges:77(0.70)  q_hat:0.10  seed:109001-110000
+预处理提前终止算法的实例数: 0(inf) + 3(not inf) = 3/1000 = 0.0030
+节点数: 500 -> 31.99  0.9398
+边数: 65142 -> 688.58  0.9894
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/997
+剩余拓扑存在可行解的比例: 0/997=0.0000
+预处理为剩余拓扑提供了初始解: 996/997
+generate data: 3.22m  pulse_c: 0.00m  preprocessing: 3.41m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.2047s  pulse_l: 0.0000s  total: 0.2047s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.38m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:500  num_edges:144(0.80)  q_hat:-0.20  seed:110001-111000
+预处理提前终止算法的实例数: 1(inf) + 333(not inf) = 334/1000 = 0.3340
+节点数: 500 -> 28.98  0.9458
+边数: 102528 -> 1213.23  0.9882
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/666
+剩余拓扑存在可行解的比例: 0/666=0.0000
+预处理为剩余拓扑提供了初始解: 666/666
+generate data: 5.12m  pulse_c: 0.00m  preprocessing: 5.59m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.3357s  pulse_l: 0.0000s  total: 0.3357s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.65m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:500  num_edges:144(0.80)  q_hat:-0.10  seed:111001-112000
+预处理提前终止算法的实例数: 0(inf) + 274(not inf) = 274/1000 = 0.2740
+节点数: 500 -> 30.18  0.9434
+边数: 102528 -> 846.65  0.9917
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/726
+剩余拓扑存在可行解的比例: 0/726=0.0000
+预处理为剩余拓扑提供了初始解: 726/726
+generate data: 5.12m  pulse_c: 0.00m  preprocessing: 4.80m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.2883s  pulse_l: 0.0000s  total: 0.2883s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.57m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:500  num_edges:144(0.80)  q_hat:0.00  seed:112001-113000
+预处理提前终止算法的实例数: 0(inf) + 2(not inf) = 2/1000 = 0.0020
+节点数: 500 -> 24.67  0.9545
+边数: 102528 -> 620.27  0.9940
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/998
+剩余拓扑存在可行解的比例: 0/998=0.0000
+预处理为剩余拓扑提供了初始解: 998/998
+generate data: 5.13m  pulse_c: 0.00m  preprocessing: 4.39m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.2635s  pulse_l: 0.0000s  total: 0.2635s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.55m
+****************************************************************************************************
+num_instances:1000  K:2  num_nodes:500  num_edges:144(0.80)  q_hat:0.10  seed:113001-114000
+预处理提前终止算法的实例数: 0(inf) + 1(not inf) = 1/1000 = 0.0010
+节点数: 500 -> 22.31  0.9592
+边数: 102528 -> 205.20  0.9980
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/999
+剩余拓扑存在可行解的比例: 0/999=0.0000
+预处理为剩余拓扑提供了初始解: 999/999
+generate data: 5.15m  pulse_c: 0.00m  preprocessing: 3.82m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.2293s  pulse_l: 0.0000s  total: 0.2293s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.51m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:100  num_edges:15(0.60)  q_hat:-0.20  seed:114001-115000
+预处理提前终止算法的实例数: 181(inf) + 1(not inf) = 182/1000 = 0.1820
+节点数: 100 -> 77.74  0.2271
+边数: 2550 -> 1517.39  0.4049
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/818
+剩余拓扑存在可行解的比例: 0/818=0.0000
+预处理为剩余拓扑提供了初始解: 132/818
+generate data: 0.27m  pulse_c: 0.00m  preprocessing: 4.69m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.2815s  pulse_l: 0.0000s  total: 0.2815s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.29m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:100  num_edges:15(0.60)  q_hat:-0.10  seed:115001-116000
+预处理提前终止算法的实例数: 142(inf) + 0(not inf) = 142/1000 = 0.1420
+节点数: 100 -> 78.46  0.2198
+边数: 2550 -> 1568.28  0.3850
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/858
+剩余拓扑存在可行解的比例: 0/858=0.0000
+预处理为剩余拓扑提供了初始解: 101/858
+generate data: 0.25m  pulse_c: 0.00m  preprocessing: 4.80m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.2883s  pulse_l: 0.0000s  total: 0.2883s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.29m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:100  num_edges:15(0.60)  q_hat:0.00  seed:116001-117000
+预处理提前终止算法的实例数: 53(inf) + 0(not inf) = 53/1000 = 0.0530
+节点数: 100 -> 75.99  0.2450
+边数: 2550 -> 1579.16  0.3807
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/947
+剩余拓扑存在可行解的比例: 0/947=0.0000
+预处理为剩余拓扑提供了初始解: 81/947
+generate data: 0.25m  pulse_c: 0.00m  preprocessing: 4.74m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.2844s  pulse_l: 0.0000s  total: 0.2844s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.29m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:100  num_edges:15(0.60)  q_hat:0.10  seed:117001-118000
+预处理提前终止算法的实例数: 43(inf) + 0(not inf) = 43/1000 = 0.0430
+节点数: 100 -> 79.22  0.2120
+边数: 2550 -> 1679.43  0.3414
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/957
+剩余拓扑存在可行解的比例: 0/957=0.0000
+预处理为剩余拓扑提供了初始解: 80/957
+generate data: 0.25m  pulse_c: 0.00m  preprocessing: 4.67m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.2805s  pulse_l: 0.0000s  total: 0.2805s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.29m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:100  num_edges:25(0.70)  q_hat:-0.20  seed:118001-119000
+预处理提前终止算法的实例数: 134(inf) + 0(not inf) = 134/1000 = 0.1340
+节点数: 100 -> 80.48  0.1992
+边数: 3750 -> 2337.22  0.3767
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/866
+剩余拓扑存在可行解的比例: 0/866=0.0000
+预处理为剩余拓扑提供了初始解: 141/866
+generate data: 0.33m  pulse_c: 0.00m  preprocessing: 6.78m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.4068s  pulse_l: 0.0000s  total: 0.4068s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.42m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:100  num_edges:25(0.70)  q_hat:-0.10  seed:119001-120000
+预处理提前终止算法的实例数: 110(inf) + 2(not inf) = 112/1000 = 0.1120
+节点数: 100 -> 85.44  0.1486
+边数: 3750 -> 2502.73  0.3326
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/888
+剩余拓扑存在可行解的比例: 0/888=0.0000
+预处理为剩余拓扑提供了初始解: 158/888
+generate data: 0.33m  pulse_c: 0.00m  preprocessing: 6.78m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.4067s  pulse_l: 0.0000s  total: 0.4067s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.41m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:100  num_edges:25(0.70)  q_hat:0.00  seed:120001-121000
+预处理提前终止算法的实例数: 35(inf) + 0(not inf) = 35/1000 = 0.0350
+节点数: 100 -> 80.59  0.1981
+边数: 3750 -> 2427.87  0.3526
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/965
+剩余拓扑存在可行解的比例: 0/965=0.0000
+预处理为剩余拓扑提供了初始解: 125/965
+generate data: 0.36m  pulse_c: 0.00m  preprocessing: 6.54m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.3926s  pulse_l: 0.0000s  total: 0.3926s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.40m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:100  num_edges:25(0.70)  q_hat:0.10  seed:121001-122000
+预处理提前终止算法的实例数: 27(inf) + 0(not inf) = 27/1000 = 0.0270
+节点数: 100 -> 84.65  0.1566
+边数: 3750 -> 2613.34  0.3031
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/973
+剩余拓扑存在可行解的比例: 0/973=0.0000
+预处理为剩余拓扑提供了初始解: 122/973
+generate data: 0.36m  pulse_c: 0.00m  preprocessing: 6.62m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.3973s  pulse_l: 0.0000s  total: 0.3973s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.41m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:100  num_edges:39(0.80)  q_hat:-0.20  seed:122001-123000
+预处理提前终止算法的实例数: 116(inf) + 2(not inf) = 118/1000 = 0.1180
+节点数: 100 -> 84.19  0.1614
+边数: 4758 -> 3068.67  0.3550
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/882
+剩余拓扑存在可行解的比例: 0/882=0.0000
+预处理为剩余拓扑提供了初始解: 193/882
+generate data: 0.44m  pulse_c: 0.00m  preprocessing: 8.35m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.5010s  pulse_l: 0.0000s  total: 0.5010s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.51m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:100  num_edges:39(0.80)  q_hat:-0.10  seed:123001-124000
+预处理提前终止算法的实例数: 97(inf) + 0(not inf) = 97/1000 = 0.0970
+节点数: 100 -> 86.15  0.1413
+边数: 4758 -> 3237.68  0.3195
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/903
+剩余拓扑存在可行解的比例: 0/903=0.0000
+预处理为剩余拓扑提供了初始解: 175/903
+generate data: 0.44m  pulse_c: 0.00m  preprocessing: 8.26m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.4957s  pulse_l: 0.0000s  total: 0.4957s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.51m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:100  num_edges:39(0.80)  q_hat:0.00  seed:124001-125000
+预处理提前终止算法的实例数: 37(inf) + 0(not inf) = 37/1000 = 0.0370
+节点数: 100 -> 85.93  0.1435
+边数: 4758 -> 3354.21  0.2950
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/963
+剩余拓扑存在可行解的比例: 0/963=0.0000
+预处理为剩余拓扑提供了初始解: 139/963
+generate data: 0.41m  pulse_c: 0.00m  preprocessing: 8.22m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.4932s  pulse_l: 0.0000s  total: 0.4932s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.50m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:100  num_edges:39(0.80)  q_hat:0.10  seed:125001-126000
+预处理提前终止算法的实例数: 31(inf) + 0(not inf) = 31/1000 = 0.0310
+节点数: 100 -> 86.85  0.1342
+边数: 4758 -> 3404.41  0.2845
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/969
+剩余拓扑存在可行解的比例: 0/969=0.0000
+预处理为剩余拓扑提供了初始解: 141/969
+generate data: 0.41m  pulse_c: 0.00m  preprocessing: 8.12m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 0.4871s  pulse_l: 0.0000s  total: 0.4871s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 0.50m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:500  num_edges:41(0.60)  q_hat:-0.20  seed:126001-127000
+预处理提前终止算法的实例数: 42(inf) + 0(not inf) = 42/1000 = 0.0420
+节点数: 500 -> 438.05  0.1244
+边数: 37638 -> 23518.96  0.3751
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/958
+剩余拓扑存在可行解的比例: 0/958=0.0000
+预处理为剩余拓扑提供了初始解: 567/958
+generate data: 3.18m  pulse_c: 0.00m  preprocessing: 67.11m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 4.0265s  pulse_l: 0.0000s  total: 4.0265s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 4.05m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:500  num_edges:41(0.60)  q_hat:-0.10  seed:127001-128000
+预处理提前终止算法的实例数: 41(inf) + 2(not inf) = 43/1000 = 0.0430
+节点数: 500 -> 444.31  0.1118
+边数: 37638 -> 24585.20  0.3468
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/957
+剩余拓扑存在可行解的比例: 0/957=0.0000
+预处理为剩余拓扑提供了初始解: 469/957
+generate data: 3.17m  pulse_c: 0.00m  preprocessing: 65.51m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 3.9308s  pulse_l: 0.0000s  total: 3.9308s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 3.99m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:500  num_edges:41(0.60)  q_hat:0.00  seed:128001-129000
+预处理提前终止算法的实例数: 9(inf) + 0(not inf) = 9/1000 = 0.0090
+节点数: 500 -> 440.04  0.1204
+边数: 37638 -> 23470.43  0.3764
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/991
+剩余拓扑存在可行解的比例: 0/991=0.0000
+预处理为剩余拓扑提供了初始解: 472/991
+generate data: 3.16m  pulse_c: 0.00m  preprocessing: 59.80m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 3.5877s  pulse_l: 0.0000s  total: 3.5877s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 3.65m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:500  num_edges:41(0.60)  q_hat:0.10  seed:129001-130000
+预处理提前终止算法的实例数: 5(inf) + 0(not inf) = 5/1000 = 0.0050
+节点数: 500 -> 455.01  0.0903
+边数: 37638 -> 24237.09  0.3560
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/995
+剩余拓扑存在可行解的比例: 0/995=0.0000
+预处理为剩余拓扑提供了初始解: 454/995
+generate data: 3.18m  pulse_c: 0.00m  preprocessing: 57.11m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 3.4266s  pulse_l: 0.0000s  total: 3.4266s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 3.51m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:500  num_edges:77(0.70)  q_hat:-0.20  seed:130001-131000
+预处理提前终止算法的实例数: 24(inf) + 1(not inf) = 25/1000 = 0.0250
+节点数: 500 -> 453.50  0.0934
+边数: 65142 -> 39539.41  0.3930
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/975
+剩余拓扑存在可行解的比例: 0/975=0.0000
+预处理为剩余拓扑提供了初始解: 583/975
+generate data: 5.02m  pulse_c: 0.00m  preprocessing: 101.10m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 6.0659s  pulse_l: 0.0000s  total: 6.0659s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 6.13m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:500  num_edges:77(0.70)  q_hat:-0.10  seed:131001-132000
+预处理提前终止算法的实例数: 15(inf) + 1(not inf) = 16/1000 = 0.0160
+节点数: 500 -> 447.94  0.1045
+边数: 65142 -> 38254.12  0.4128
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/984
+剩余拓扑存在可行解的比例: 0/984=0.0000
+预处理为剩余拓扑提供了初始解: 583/984
+generate data: 5.02m  pulse_c: 0.00m  preprocessing: 96.53m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 5.7917s  pulse_l: 0.0000s  total: 5.7917s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 5.93m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:500  num_edges:77(0.70)  q_hat:0.00  seed:132001-133000
+预处理提前终止算法的实例数: 8(inf) + 0(not inf) = 8/1000 = 0.0080
+节点数: 500 -> 457.62  0.0851
+边数: 65142 -> 39265.10  0.3972
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/992
+剩余拓扑存在可行解的比例: 0/992=0.0000
+预处理为剩余拓扑提供了初始解: 540/992
+generate data: 5.01m  pulse_c: 0.00m  preprocessing: 92.51m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 5.5508s  pulse_l: 0.0000s  total: 5.5508s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 5.68m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:500  num_edges:77(0.70)  q_hat:0.10  seed:133001-134000
+预处理提前终止算法的实例数: 6(inf) + 0(not inf) = 6/1000 = 0.0060
+节点数: 500 -> 456.85  0.0867
+边数: 65142 -> 38187.06  0.4138
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/994
+剩余拓扑存在可行解的比例: 0/994=0.0000
+预处理为剩余拓扑提供了初始解: 527/994
+generate data: 5.02m  pulse_c: 0.00m  preprocessing: 87.54m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 5.2522s  pulse_l: 0.0000s  total: 5.2522s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 5.40m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:500  num_edges:144(0.80)  q_hat:-0.20  seed:134001-135000
+预处理提前终止算法的实例数: 22(inf) + 3(not inf) = 25/1000 = 0.0250
+节点数: 500 -> 457.76  0.0848
+边数: 102528 -> 57831.64  0.4359
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/975
+剩余拓扑存在可行解的比例: 0/975=0.0000
+预处理为剩余拓扑提供了初始解: 628/975
+generate data: 7.72m  pulse_c: 0.00m  preprocessing: 145.04m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 8.7023s  pulse_l: 0.0000s  total: 8.7023s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 8.81m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:500  num_edges:144(0.80)  q_hat:-0.10  seed:135001-136000
+预处理提前终止算法的实例数: 13(inf) + 0(not inf) = 13/1000 = 0.0130
+节点数: 500 -> 461.19  0.0779
+边数: 102528 -> 58591.43  0.4285
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/987
+剩余拓扑存在可行解的比例: 0/987=0.0000
+预处理为剩余拓扑提供了初始解: 597/987
+generate data: 7.72m  pulse_c: 0.00m  preprocessing: 137.13m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 8.2278s  pulse_l: 0.0000s  total: 8.2278s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 8.33m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:500  num_edges:144(0.80)  q_hat:0.00  seed:136001-137000
+预处理提前终止算法的实例数: 10(inf) + 0(not inf) = 10/1000 = 0.0100
+节点数: 500 -> 459.56  0.0812
+边数: 102528 -> 56606.22  0.4479
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/990
+剩余拓扑存在可行解的比例: 0/990=0.0000
+预处理为剩余拓扑提供了初始解: 602/990
+generate data: 7.70m  pulse_c: 0.00m  preprocessing: 134.15m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 8.0488s  pulse_l: 0.0000s  total: 8.0488s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 8.17m
+****************************************************************************************************
+num_instances:1000  K:5  num_nodes:500  num_edges:144(0.80)  q_hat:0.10  seed:137001-138000
+预处理提前终止算法的实例数: 7(inf) + 0(not inf) = 7/1000 = 0.0070
+节点数: 500 -> 467.10  0.0661
+边数: 102528 -> 55279.91  0.4608
+第一阶段未结束的拓扑，精确算法比cost_min更优：0/993
+剩余拓扑存在可行解的比例: 0/993=0.0000
+预处理为剩余拓扑提供了初始解: 582/993
+generate data: 7.71m  pulse_c: 0.00m  preprocessing: 123.71m  pulse_l: 0.00m
+                 avg  pulse_c: 0.0000s  preprocessing: 7.4227s  pulse_l: 0.0000s  total: 7.4227s
+speed up: geometric:0.0000  arithmetic:0.0000  true: 0.0000
+actual time: 7.57m
+exp time: 81.49m
